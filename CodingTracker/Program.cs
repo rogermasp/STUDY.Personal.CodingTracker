@@ -1,2 +1,17 @@
-﻿Console.WriteLine("Hello,C# Academy! One more modification!");
-Console.WriteLine("Roger Maia Santos");
+﻿void MyFirstMethod()
+{
+    Console.WriteLine("Hello, World!");
+}
+
+void MySecondMethod()
+{
+    Console.WriteLine("Hello, C# Academy!");
+}
+
+void MyThirdMethod()
+{
+    Console.WriteLine("Hello, C#");
+   
+}   
+
+
